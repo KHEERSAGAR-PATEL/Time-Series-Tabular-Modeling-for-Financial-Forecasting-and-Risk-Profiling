@@ -1,6 +1,4 @@
 
----
-
 # 📊 Applied ML Projects — Financial Forecasting & Customer Risk Prediction
 
 Welcome to a curated portfolio of cutting-edge Machine Learning applications, designed to address real-world problems in **time-series forecasting** and **customer risk prediction**. These projects incorporate state-of-the-art models, precise performance evaluations, and practical business impact, making them ideal for **Applied Scientist** roles at top-tier companies (MAANG+).
@@ -9,7 +7,7 @@ Welcome to a curated portfolio of cutting-edge Machine Learning applications, de
 
 ## 🚀 Project Highlights
 
-### 💳 **Customer Transaction Prediction with XGBoost**  
+### 💳 **1.Customer Transaction Prediction with XGBoost**  
 
 
 **Objective:** Predict whether a customer will make a transaction based on anonymized tabular data — a high-stakes, imbalanced binary classification problem critical to financial decision systems.
@@ -32,7 +30,7 @@ Welcome to a curated portfolio of cutting-edge Machine Learning applications, de
 
 ---
 
-### 1. 🧠 **Tesla Stock Forecasting with Multi-Step Stacked LSTM**  
+### 2. 🧠 **Tesla Stock Forecasting with Multi-Step Stacked LSTM**  
 
 
 - **Problem:** Traditional stock models struggle to capture long-term temporal dependencies and multivariate correlations in financial data.
