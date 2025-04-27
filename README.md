@@ -42,6 +42,8 @@ Welcome to a curated portfolio of cutting-edge Machine Learning applications, de
   - **RMSE:** Approx **3.84 (Open)** and **4.28 (Close)** across multiple forecasting horizons.
   - **Key Insights:** High temporal consistency and low forecast variance even for longer-term predictions.
 - **Impact:** This model is suitable for integrating into financial analysis tools, empowering investors with more reliable market predictions.
+---
+- ## Due to GitHub limitations, the training method and plotting are not displayed in the uploaded .ipynb file. These can be obtained by running the notebook on my local MacBook or on a Google Colab notebook.
 
 ---
 
